@@ -3,3 +3,5 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+
+Sitemap: https://stainley.github.io/bible_quest_niv_webpage/sitemap.xml
