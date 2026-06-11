@@ -987,3 +987,9 @@ body {
   font-size: 1.4rem;
   opacity: 0.4;
 }
+
+.nav-logo-icon .logo-img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain; /* keeps the image proportions crisp */
+}
