@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bible_quest_niv.iml" filepath="$PROJECT_DIR$/bible_quest_niv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bible_quest_niv_webpage.iml" filepath="$PROJECT_DIR$/bible_quest_niv_webpage.iml" />
     </modules>
   </component>
 </project>
